@@ -40,7 +40,7 @@ This landing page is a tribute to the legendary Iron Maiden album "The Number of
    git clone https://github.com/your-username/iron-maiden-album-landing-page.git
 2. Navigate to the project directory:
 - cd iron-maiden-album-landing-page 
-4. Open the 'Product_Landing_Page.html' file in a web browser to view the landing page.
+3. Open the 'Product_Landing_Page.html' file in a web browser to view the landing page.
 
 ## Contributing
 - Contributions to this project are welcome. Feel free to submit pull requests for enhancements or bug fixes.
