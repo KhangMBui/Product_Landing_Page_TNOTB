@@ -2,7 +2,6 @@
 
 Link to the page: https://khangmbui.github.io/Product_Landing_Page_TNOTB/index.html
 
-https://khangmbui.github.io/Product_Landing_Page_TNOTB/
 ![image](https://github.com/KhangMBui/Product_Landing_Page_TNOTB/assets/114207962/1337e797-57ab-4438-bced-d15ad27b5546)
 
 This is a product landing page for the CD album "The Number of the Beast" by Iron Maiden. The landing page is designed with a dark, grunge-style aesthetic and provides information about the album along with a pre-order form.
